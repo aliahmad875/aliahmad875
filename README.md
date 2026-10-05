@@ -46,4 +46,6 @@ I've worked on 35+ applications across fintech, healthtech, e-commerce, travel-t
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
 
 ### Let's connect
-[LinkedIn](https://linkedin.com/in/ali-ahmad-sse) · m.aliahmad875@gmail.com
+[![Website](https://img.shields.io/badge/Website-devurs.com-000000?logo=googlechrome&logoColor=white)](https://devurs.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ali_Ahmad-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-ahmad-sse)
+[![Email](https://img.shields.io/badge/Email-m.aliahmad875@gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:m.aliahmad875@gmail.com)
