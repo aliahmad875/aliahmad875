@@ -3,7 +3,7 @@
 Senior Software Engineer with 8+ years building web apps, AI tools and automations.
 I've worked on 35+ applications across fintech, healthtech, e-commerce, travel-tech and SaaS.
 
-- 🔭 Currently: Senior Rails Engineer at iRevise (remote, US)
+- 🔭 Currently: Senior Software Engineer
 - 🤝 Open to: full-stack, AI/LLM and automation projects
 
 ### Highlights
