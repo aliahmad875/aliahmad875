@@ -1,51 +1,43 @@
 # Hi, I'm Ali Ahmad 👋
 
-Senior Software Engineer with 8+ years building web apps, AI tools and automations.
-I've worked on 35+ applications across fintech, healthtech, e-commerce, travel-tech and SaaS.
+**Software Engineer | Meta Ads Specialist | Full-Stack Developer | Automation Expert**
 
-- 🔭 Currently: Senior Software Engineer
-- 🤝 Open to: full-stack, AI/LLM and automation projects
+I'm a Software Engineer with 5+ years of experience building scalable web applications, integrating APIs, and developing automation solutions. I also have 2 years of hands-on experience managing Facebook and Instagram advertising campaigns.
 
-### Highlights
-- Led a team of 8 developers and set up code reviews that cut bugs by 30%
-- Built a GPT support chatbot that handles 95% of customer queries across WhatsApp, Messenger and Instagram
-- Designed a warehouse routing system that cut shipping costs by 20%
-- Shipped 100+ automation workflows saving clients 20+ hours a week
+My expertise combines **Software Engineering, Digital Marketing, Conversion Tracking, and Business Automation**, helping businesses build better products and improve their marketing performance.
 
-### What I do
-- **Full-stack development:** Ruby on Rails, React, Next.js, Node.js, Nest.js
-- **AI apps & chatbots:** LangChain, LangGraph, OpenAI API, Claude API
-- **Automation:** n8n, Zapier, Make and GoHighLevel
-- **DevOps:** AWS, Docker, Heroku, Vercel, CI/CD
-- **AI-assisted development:** Claude Code and Codex to ship faster with reviewed, tested code
+### 🚀 What I Do
 
-### Projects I've worked on
-| Project | What it is | Stack |
-|---|---|---|
-| [Construction Pro](https://coreapp.ca) | Time and shift tracking for construction teams | React, Node, MongoDB, Socket.IO |
-| [Toaster Home](https://dpak.toasterhome.com) | Multi-warehouse inventory on Shopify | Shopify, custom algorithms |
-| Tshirt Deal GPT | Multilingual support chatbot for WhatsApp, Messenger, Instagram | React, Express, OpenAI |
-| [iRevise](https://irevise.com) | Exam prep platform with subscriptions | Rails, Stripe, Sidekiq |
-| [AirAsia (Vidi)](https://airasia.com) | Activity booking and travel discovery | Rails, React, MySQL, AWS |
-| [Dear Brightly](https://dearbrightly.com) | Teledermatology platform | Rails, React |
+- 💻 **Full-Stack Development:** Ruby on Rails, React, JavaScript, REST APIs, PostgreSQL
+- 📈 **Meta Advertising:** Facebook & Instagram Ads, Campaign Optimization, A/B Testing, Retargeting
+- 🎯 **Conversion Tracking:** Meta Pixel, Conversion Events, Tracking Integrations
+- 🤖 **AI & Automation:** OpenAI, Claude, n8n, Zapier, GoHighLevel
+- ☁️ **Cloud & DevOps:** AWS, Docker, Linux, Hetzner, Heroku, CI/CD
+- 🔗 **Business Integrations:** CRM Automation, Stripe, Brevo, Postmark
 
-### Tech stack
-![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?logo=rubyonrails&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?logo=langchain&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?logo=n8n&logoColor=white)
-![Zapier](https://img.shields.io/badge/Zapier-FF4A00?logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?logo=openai&logoColor=white)
+### 💼 Professional Experience
 
-### Let's connect
-[![Website](https://img.shields.io/badge/Website-devurs.com-000000?logo=googlechrome&logoColor=white)](https://devurs.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ali_Ahmad-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-ahmad-sse)
-[![Email](https://img.shields.io/badge/Email-m.aliahmad875@gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:m.aliahmad875@gmail.com)
+**Software Engineer — Apptimum Labs (2022–2025)**
+
+Developed production applications across e-commerce, tourism, teledermatology, and wellness. Contributed to team leadership, code reviews, backend optimization, and technical integrations.
+
+**Meta Ads Manager — Freelance (2025–Present)**
+
+Managing Facebook and Instagram advertising campaigns, including audience targeting, campaign optimization, Meta Pixel implementation, retargeting, and CRM lead automation.
+
+### 🌟 Featured Projects
+
+- **Dear Brightly:** Teledermatology platform using Ruby on Rails.
+- **KlarHome:** Customizable e-commerce platform.
+- **Intocities:** Digital tourism platform with 360° virtual tours.
+- **EverCalm:** Wellness application with payments and notifications.
+- **FeedBear:** Customer feedback management platform.
+- **Productions:** Creative hiring and recruitment platform.
+
+### 📬 Let's Connect
+
+- **Website:** https://devurs.com
+- **LinkedIn:** https://linkedin.com/in/ali-ahmad-sse
+- **Email:** m.aliahmad875@gmail.com
+
+Open to Software Engineering, Full-Stack Development, Meta Ads, AI Integration, and Automation opportunities.
