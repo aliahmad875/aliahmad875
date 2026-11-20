@@ -32,7 +32,7 @@ I've worked on 35+ applications across fintech, healthtech, e-commerce, travel-t
 - Shipped 100+ automation workflows saving clients 20+ hours a week
 
 ### What I do
-- **Full-stack development:** Ruby on Rails, React, Next.js, Node.js, Nest.js
+- **Full-stack development:** React, Next.js, Node.js, Nest.js, Ruby on Rails
 - **AI apps & chatbots:** LangChain, LangGraph, OpenAI API, Claude API
 - **Automation:** n8n, Zapier, Make and GoHighLevel
 - **DevOps:** AWS, Docker, Heroku, Vercel, CI/CD
